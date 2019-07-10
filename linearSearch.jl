@@ -8,5 +8,5 @@ function search(arr,n,x)
     
 end
 
-arr = [5,6,8,9,2]
+arr = [5,6,9,9,2]
 println(search(arr,5,78))
